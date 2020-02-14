@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Definition xsi:type="MyObjectBuilder_FactionIconsDefinition">
+    <Id Type="MyObjectBuilder_FactionIconsDefinition" Subtype="NekoGaming" />
+    <BackgroundColorRanges>
+      <Color x="0" y="0.56" z="1" />
+    </BackgroundColorRanges>
+    <Icon>Textures\FactionLogo\NekoGaming\NekoGaming_1.png</Icon>
+  </Definition>
+</Definitions>
